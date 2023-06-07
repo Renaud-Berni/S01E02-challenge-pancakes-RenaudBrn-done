@@ -1,0 +1,54 @@
+
+* 
+{
+    font-family: sans-serif;
+    background-color:#FFF3DB;
+}
+
+h1
+{
+    color:white;
+    background-color: #f02425;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2
+{
+    color: #f02425;
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: normal;
+    font-style: italic;
+} 
+
+.boldwords
+{
+    font-weight: bold;  
+}
+.redwords
+{
+    color:red;
+}
+
+.pancake
+{
+    text-align: center;
+}
+.hypertext
+{
+    font-weight: bold;
+    color: blue;
+}
+.astuces
+{
+    background-color: #FED48A;
+    color: #666666;
+    font-weight: bold;
+    font-style: italic;
+}
